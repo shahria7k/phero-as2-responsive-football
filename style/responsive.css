@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1200px) {
+	.grid {
+		grid-template-columns: repeat(2, 330px);
+	}
+	.row {
+		padding-top: 50px;
+		flex-direction: column;
+	}
+	h1 {
+		font-size: 50px;
+	}
+	h2 {
+		font-size: 40px;
+	}
+}
+@media only screen and (max-width: 776px) {
+	.row {
+		padding-top: 50px;
+		flex-direction: column;
+	}
+	.grid {
+		grid-template-columns: 330px;
+	}
+	h1 {
+		font-size: 50px;
+	}
+	h2 {
+		font-size: 40px;
+	}
+}
