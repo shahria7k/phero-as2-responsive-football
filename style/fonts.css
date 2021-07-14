@@ -21,6 +21,7 @@ h3 {
 	letter-spacing: 0em;
 	text-align: left;
 	color: #18191f;
+	margin-top: 16px;
 }
 p {
 	font-size: 16px;
@@ -29,6 +30,7 @@ p {
 	letter-spacing: 0em;
 	text-align: left;
 	color: #6c6c6c;
+	margin-top: 10px;
 }
 p.copy {
 	font-size: 18px;
