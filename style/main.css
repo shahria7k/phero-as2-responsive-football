@@ -33,7 +33,7 @@ img {
 }
 
 .banner .right {
-	background-image: url("images/shape-b.png");
+	background-image: url("../images/shape-b.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50%;
